@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729282195618
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1729282205974
+name: best-forest
+run_id: e1e8852735e1480e9578c08fdd40a0b3
+run_link: ''
+source: file:///c:/Gp/mlflowSentiment/mlruns/538281162889321393/e1e8852735e1480e9578c08fdd40a0b3/artifacts/random_forest_model.pkl
+status: READY
+status_message: null
+storage_location: file:///c:/Gp/mlflowSentiment/mlruns/538281162889321393/e1e8852735e1480e9578c08fdd40a0b3/artifacts/random_forest_model.pkl
+user_id: null
+version: 1
