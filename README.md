@@ -4,7 +4,9 @@
 
 The **Customer Sentiment Analysis** project leverages natural language processing (NLP) techniques to analyze customer reviews from Amazon. By employing machine learning algorithms, this project aims to classify reviews as either **positive** or **negative** based on the sentiments expressed within the text. This analysis provides valuable insights into customer opinions, enabling businesses to understand customer satisfaction and improve their products and services.
 
-[![Watch the demo](https://github.com/A1aaSayed/Customer_Sentiment_and_Trend_Analysis/blob/master/demo.gif)]
+![Finished App](https://github.com/A1aaSayed/Customer_Sentiment_and_Trend_Analysis/blob/master/demo.gif)
+
+## Dataset
 
 The dataset used in this project is the **Amazon Reviews Dataset**. The dataset includes the following columns:
 
