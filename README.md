@@ -65,4 +65,4 @@ By utilizing Azure, we ensured our sentiment analysis solution is scalable, acce
 - [Omnia Meabed](https://github.com/OmniaMeabed)
 - [Omnia Samir](https://github.com/AsmaaMohamed2000)
 - [Asmaa Mohamed](https://github.com/omniasameer)
-- [Rana Yasser]((https://github.com/rana6-12)
+- [Rana Yasser](https://github.com/rana6-12)
